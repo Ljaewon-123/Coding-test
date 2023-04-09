@@ -23,3 +23,5 @@ const createScore = (name, yearning) => {
     }
     return score
 }
+
+// map = 배열 요소의 모든 값을 변경해서 새로운 배열 만들 떄
